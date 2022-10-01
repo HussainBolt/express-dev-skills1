@@ -2,10 +2,14 @@
 
 I'm still learning new skills and languages, this list will eventually expand :)
 
-![Screen Shot 2022-09-30 at 9 12 51 PM](https://user-images.githubusercontent.com/112985816/193392210-f097a246-0ec5-4fbd-a9b3-7e9a35cdfb18.png)
+###### Here's how the list looks
+![Screen Shot 2022-09-30 at 9 23 04 PM](https://user-images.githubusercontent.com/112985816/193392407-4f31200a-2c32-45f1-9d6d-f4eb15f319ab.png)
 
-![Screen Shot 2022-09-30 at 9 14 01 PM](https://user-images.githubusercontent.com/112985816/193392212-c3524746-b850-4d9e-b058-0be4ccaa9f15.png)
+###### You can delete from the list
+![Screen Shot 2022-09-30 at 9 23 46 PM](https://user-images.githubusercontent.com/112985816/193392410-6ac43c15-15a2-463e-b4ca-659fa3b03a57.png)
 
-![Screen Shot 2022-09-30 at 9 14 25 PM](https://user-images.githubusercontent.com/112985816/193392215-5dee5048-22ff-41ff-992d-56a2e766deeb.png)
+###### You can update and add to the list
+![Screen Shot 2022-09-30 at 9 24 25 PM](https://user-images.githubusercontent.com/112985816/193392414-3b2ad041-9c47-431e-93d1-1ae6a1978e9c.png)
 
-![Screen Shot 2022-09-30 at 9 15 38 PM](https://user-images.githubusercontent.com/112985816/193392217-92d49f94-464a-4153-95ed-4d11b5159842.png)
+###### Keep learning so the list grows longer!
+![Screen Shot 2022-09-30 at 9 24 43 PM](https://user-images.githubusercontent.com/112985816/193392416-4f5d85f3-0631-4aa2-8910-b49f28aca671.png)
