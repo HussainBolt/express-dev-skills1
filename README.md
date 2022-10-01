@@ -1,5 +1,7 @@
 # Express Dev Skills Lab
 
+I'm still learning new skills and languages, this list will eventually expand :)
+
 ![Screen Shot 2022-09-30 at 9 12 51 PM](https://user-images.githubusercontent.com/112985816/193392210-f097a246-0ec5-4fbd-a9b3-7e9a35cdfb18.png)
 
 ![Screen Shot 2022-09-30 at 9 14 01 PM](https://user-images.githubusercontent.com/112985816/193392212-c3524746-b850-4d9e-b058-0be4ccaa9f15.png)
